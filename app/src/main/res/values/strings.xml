@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">📱 PDA扫码器</string>
+    <string name="server_url_hint">服务器IP:端口</string>
+    <string name="room_hint">房间或区域名称</string>
+    <string name="connect_server">🔗 连接服务器</string>
+    <string name="disconnect_server">🔌 断开连接</string>
+    <string name="waiting_connection">等待连接...</string>
+    <string name="scan_count">扫码次数: %d</string>
+    <string name="scan_records">扫码记录:</string>
+    <string name="server_address">服务器地址:</string>
+    <string name="room_name">房间名称:</string>
+</resources>
